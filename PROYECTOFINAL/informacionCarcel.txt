@@ -1,0 +1,43 @@
+->HISTORIA<-
+
+La Penitenciaria Montaña Azul, ubicada en la ciudad de Loja, es una instalacion penitenciaria 
+que cumple con estandares de seguridad y disciplina. Con su arquitectura simple, el complejo
+consta de celdas basicas y un patio central para actividades controladas. Montaña Azul se 
+enfoca en proporcionar un entorno seguro y ordenado para la reclusion, sin adornos 
+innecesarios. Su presencia solida representa un compromiso con la justicia y la contencion de 
+la delincuencia en Loja.
+
+->CARACTERISTICAS<-
+
+CAPACIDAD MAXIMA: 800 PPL, 400 celdas, cada celda esta diseniada para 2 PPL.
+
+DIVISION EN PABELLONES DE LA ESTRUCTURA:
+PABELLON 1 -> MAXIMA SEGURIDAD (A): Alta peligrosidad
+CAPACIDAD: 40 celdas -> 80 PPL
+PABELLON 2 (B): Mediana peligrosidad
+CAPACIDAD: 90 celdas -> 180 PPL
+PABELLON 3 (C): Mediana peligrosidad
+CAPACIDAD: 90 celdas -> 180 PPLs
+PABELLON 4 (D): Baja peligrosidad
+CAPACIDAD: 90 celdas -> 180 PPL
+PABELLON 5 (E): Baja peligrosidad
+CAPACIDAD: 90 celdas -> 180 PPL
+
+CLASIFICACION DE DELITOS:
+ALTA PELIGROSIDAD:
+Narcotrafico; Homicidio
+MEDIANA PELIGROSIDAD:
+Robo; Hurto; Fraude; Evasion de impuestos
+BAJA PELIGROSIDAD:
+Invasion de propiedad; Escandalo publico; Estafa; Otros
+
+VISITAS:
+ALTA PELIGROSIDAD:
+DOMINGOS: 1 hora (9-10AM) -> TOTAL SEMANAL: 1 HORA
+MEDIANA PELIGROSIDAD:
+LUNES, MIERCOLES: 1 hora (9-10AM) -> TOTAL SEMANAL: 2 HORAS
+BAJA PELIGROSIDAD:
+MARTES, JUEVES: 2 horas (9-11AM) -> TOTAL SEMANAL: 4 HORAS
+
+
+AUTORES: RICARDO ESPINOSA Y JUAN DIEGO GUERRERO 
